@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ingluissantana
-- 👀 I’m interested in Learning programming languages.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python small projects.
+- 👀 I’m Learning Python for Machine Learning and Data Science.
+- 🌱 Portfolio: https://bit.ly/3e5ZUXK
+- 💞️ I’m looking to collaborate on ML/DS small projects.
 
 <!---
 ingluissantana/ingluissantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
